@@ -1,0 +1,22 @@
+[
+  {
+    "ciudad": "Junin",
+    "temperatura": 20.0
+  },
+  {
+    "ciudad": "Chacabuco",
+    "temperatura": 19.0
+  },
+  {
+    "ciudad": "Bragado",
+    "temperatura": 2.0
+  },
+  {
+    "ciudad": "Rojas",
+    "temperatura": 50.0
+  },
+  {
+    "ciudad": "Chivilcoy",
+    "temperatura": 11.0
+  }
+]
